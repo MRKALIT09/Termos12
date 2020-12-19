@@ -36,9 +36,9 @@ def runntxt(s):
 def banner():
     os.system('clear')
     print Y+"╔══════════════════════════════════════════╗"
-    print Y+"║ * Author   : MR_KALIT09                  ║"
-    print Y+"║ * NAME FB  : Ma Ndo                      ║"
-    print Y+"║ * Whatsapp : 085277804293                ║"
+    print Y+"║ * Author   : MR_KALIT09                          ║"
+    print Y+"║ * NAME FB  : Ma Ndo                              ║"
+    print Y+"║ * Whatsapp : 085277804293                        ║"
     print Y+"╚══════════════════════════════════════════╝"
 
 banner ()
